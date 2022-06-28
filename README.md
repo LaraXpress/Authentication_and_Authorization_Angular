@@ -1,2 +1,2 @@
-# Authentication_and_Authorization_Angular
+# Authentication and Authorization in Angular
 Angular Authentication and Authorization, JWT and Guards, Role Based Authorization
